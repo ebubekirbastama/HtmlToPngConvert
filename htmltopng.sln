@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "htmltopng", "htmltopng\htmltopng.csproj", "{4AE994B4-4CE4-4627-A615-65D3714F1339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AE994B4-4CE4-4627-A615-65D3714F1339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE994B4-4CE4-4627-A615-65D3714F1339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE994B4-4CE4-4627-A615-65D3714F1339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE994B4-4CE4-4627-A615-65D3714F1339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C1D210-45F5-425D-A84E-C509E537D665}
+	EndGlobalSection
+EndGlobal
